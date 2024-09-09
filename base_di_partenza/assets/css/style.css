@@ -232,6 +232,9 @@ aside div p:last-child {
     font-size: 1.7rem;
     font-weight: 400;
   }
+  h1 {
+    font-size: 4rem;
+  }
 
   table {
     width: 70%;
