@@ -272,3 +272,12 @@ footer {
 footer a {
   color: fuchsia;
 }
+
+@media print {
+  header nav,
+  iframe,
+  section,
+  aside {
+    display: none;
+  }
+}
